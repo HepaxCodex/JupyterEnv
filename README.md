@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/HepaxCodex/JupyterEnv/master?urlpath=git-pull?repo=https://github.com/HepaxCodex/Jupyter
+
 # JupyterEnv
 
 This will hold the Jupyter Environment necessary for MyBinder to quickly build and load a suitable docker image.
