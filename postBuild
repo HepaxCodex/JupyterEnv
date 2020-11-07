@@ -4,9 +4,11 @@
 #   git
 #   bqplot (D3 based plots)
 #   matplotlib (traditional plots)
-jupyter labextension install @jupyter-widgets/jupyterlab-manager nbdime jupyter-matplotlib bqplot --dev-build=False --minimize=False
 
-#jupyter labextension install @jupyter-widgets/jupyterlab-manager --dev-build=False --minimize=False
+jupyter labextension install @jupyter-widgets/jupyterlab-manager bqplot --dev-build=False --minimize=False
+#jupyter labextension install @jupyter-widgets/jupyterlab-manager nbdime jupyter-matplotlib bqplot --dev-build=False --minimize=False
+
+
 #jupyter lab build
 
 #jupyter serverextension enable --py nbdime --user
