@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/HepaxCodex/JupyterEnv/master?urlpath=git-pull?repo=https://github.com/HepaxCodex/Jupyter
+https://mybinder.org/v2/gh/HepaxCodex/JupyterEnv/?urlpath=git-pull?repo=https://github.com/HepaxCodex/Jupyter
 
 # JupyterEnv
 
