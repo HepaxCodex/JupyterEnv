@@ -12,7 +12,8 @@ https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-c
 # Configuration
 
 * environment.yml
-This is a list of anaconda items to install
+This is a list of anaconda items to install into the conda environment
+After installing, they may need enabled ? or Build? into jupyter postbuild?
 
 * postBuild
 These are commands for fire up jupyter Lab with the appropriate extensions
