@@ -10,7 +10,6 @@ dependencies:
     - numpy >=1.10.4
     - pandas
     - bqplot
-    - jupyter-matplotlib
     - matplotlib
     - ipympl
     - nbgitpuller
