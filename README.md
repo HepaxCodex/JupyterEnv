@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HepaxCodex/JupyterEnv/main?urlpath=git-pull?repo=https://github.com/HepaxCodex/Jupyter)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HepaxCodex/JupyterEnv/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FHepaxCodex%252FJupyter%26urlpath%3Dlab%252Ftree%252FJupyter%252F%26branch%3Dmaster)
 
 # JupyterEnv
 
