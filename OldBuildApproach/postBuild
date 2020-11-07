@@ -1,0 +1,17 @@
+# Install the Following:
+#   jupyterlab-manager
+jupyter labextension install @jupyter-widgets/jupyterlab-manager nbdime jupyter-matplotlib --dev-build=False --minimize=False
+
+
+#jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --dev-build=False --minimize=False
+
+
+#jupyter serverextension enable --py nbdime --user
+#jupyter nbextension install --py nbdime --user
+#jupyter nbextension enable --py nbdime
+#jupyter labextension install nbdime-jupyterlab
+
+#jupyter serverextension enable --py jupyterlab-git --user
+#jupyter nbextension install --py jupyterlab-git --user
+#jupyter nbextension enable --py jupyterlab-git
+#jupyter labextension install jupyterlab-git
